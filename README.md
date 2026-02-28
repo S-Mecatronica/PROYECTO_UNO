@@ -24,5 +24,7 @@ Este proyecto permite:
 
 Agrega imágenes, GIFs o enlaces:
 
+![Demo del proyecto](docs/images/demo.png)
+
 ```bash
 https://tu-demo.com
