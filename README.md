@@ -1,4 +1,4 @@
-# 🚀 PROYECTO_UNO
+# 🚀 Nombre del Proyecto
 
 > Breve descripción del proyecto en una sola frase clara y atractiva.
 
@@ -23,8 +23,6 @@ Este proyecto permite:
 ## 🖼️ Demo
 
 Agrega imágenes, GIFs o enlaces:
-
-![Demo del proyecto](docs/images/demo.png)
 
 ```bash
 https://tu-demo.com
